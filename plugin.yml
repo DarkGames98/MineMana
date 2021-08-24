@@ -1,0 +1,6 @@
+name: MineMana
+version: 1.0.0
+api: 3.0.0
+author: Dark
+main: Dark\MineMana\Main
+depend: MultiEconomy
